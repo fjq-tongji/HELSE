@@ -65,8 +65,8 @@ if __name__ == '__main__':
 
     coda_detail_captions_correct = []
     for sample in coda_detail_captions:
-        output = corrector.correct(pipeline, pipeline, pipeline, pipeline, pipeline,
-                                   pipeline, pipeline, sample)
+        output = corrector.correct(pipeline, processor_blip, model_blip, processor_instructblip, model_instructblip,
+                                   processor_insblip_vicuna, model_insblip_vicuna, sample)
         print(output)
         coda_detail_captions_correct.append(output)
         print(len(coda_detail_captions_correct))
