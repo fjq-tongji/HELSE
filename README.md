@@ -1,6 +1,6 @@
 CODA_desc.rar and nuScenes_desc.rar are the created datasets.
 
-Since we have four GPUs, the code of each stage is divides into four sub-files. 
+Since we have four GPUs, the code of each stage is divides into four sub-files. \n
 "Sentence Split" corresponds to the codes of inference_split_sents.py. 
 "Key Entity Extraction" corresponds to the codes of inference_named_entity_1_x.py.
 "Entity Filtering" corresponds to the codes of inference_blip2_3_x.py, inference_instructblip_3_x.py, and inference_entity_update_3_x.py.
