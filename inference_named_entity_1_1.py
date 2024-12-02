@@ -11,7 +11,7 @@ from transformers import pipeline, Blip2Processor, Blip2ForConditionalGeneration
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Code for 'ReCaption'.")
-    parser.add_argument('--stage-1', default='./Each_stage_texts/mplug-Owl3/CODA_mPLUG_Owl3_detail_captions_neww_1.json')
+    parser.add_argument('--stage-1', default='./Each_stage_texts/mplug-Owl3/CODA_mPLUG_Owl3_detail_captions_neww.json')
     parser.add_argument('--query', default='Describe this image.', type=str, help="text query for MLLM")
     parser.add_argument('--cache-dir', type=str, default='./cache_dir')
     parser.add_argument('--detector-config',
@@ -39,11 +39,22 @@ if __name__ == '__main__':
         )
 
     ######################################
-    # model_blip = Blip2ForConditionalGeneration.from_pretrained('/data/fjq/blip-2/blip2-flan-t5-xxl',
-    #                                                            torch_dtype=torch.float32)  # , load_in_8bit=True)
-    # model_blip.to("cuda:0")
-    # processor_blip = Blip2Processor.from_pretrained('/data/fjq/blip-2/blip2-flan-t5-xxl')
+    model_blip = Blip2ForConditionalGeneration.from_pretrained('/data/fjq/blip-2/blip2-flan-t5-xxl',
+                                                            torch_dtype=torch.float32)
+    model_blip.to("cuda:0")
+    processor_blip = Blip2Processor.from_pretrained('/data/fjq/blip-2/blip2-flan-t5-xxl')
     ######################################
+    model_instructblip = InstructBlipForConditionalGeneration.from_pretrained('/data/fjq/blip-2/Instructblip-flan-t5-xxl',
+                                                               torch_dtype=torch.float32)  # , load_in_8bit=True)
+    model_instructblip.to("cuda:0")
+    processor_instructblip = InstructBlipProcessor.from_pretrained('/data/fjq/blip-2/Instructblip-flan-t5-xxl')
+    ######################################
+    model_instructblip_vicuna = InstructBlipForConditionalGeneration.from_pretrained('/data/fjq/blip-2/Instructblip-vicuna-13b',
+                                                                   torch_dtype=torch.float32)  # , load_in_8bit=True)
+    model_instructblip_vicuna.to("cuda:0")
+    processor_instructblip_vicuna = InstructBlipProcessor.from_pretrained('/data/fjq/blip-2/Instructblip-vicuna-13b')
+    ######################################
+    
 
     corrector = Corrector(model_args)
     final_text = []
@@ -61,7 +72,7 @@ if __name__ == '__main__':
         print(len(coda_detail_captions_correct))
 
 
-    with open('./Each_stage_texts/mplug-Owl3/Ours_mplug_owl3_detail_caption_entity_1.json', 'w', encoding='utf-8') as f:
+    with open('./Each_stage_texts/mplug-Owl3/Ours_mplug_owl3_refined_caption.json', 'w', encoding='utf-8') as f:
         json.dump(coda_detail_captions_correct, f, indent=4, ensure_ascii=False)
 
 
