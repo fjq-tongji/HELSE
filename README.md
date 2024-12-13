@@ -9,7 +9,7 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 ## :fire: News
 - This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
 - CODA_desc.rar and nuScenes_desc.rar are the created datasets.  
-- [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
+- [Watch the video demo](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
 
 ## :book: Model
 ![Logo](images/overall39.jpg)
