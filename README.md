@@ -1,6 +1,8 @@
-<h1>
-  Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenario
-</h1>
+<div style="text-align: center;">
+  <h1>
+    Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios
+  </h1>
+</div>
 
 CODA_desc.rar and nuScenes_desc.rar are the created datasets.
 
