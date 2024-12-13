@@ -4,6 +4,8 @@
 
 ![Logo](images/label_coda+nuscenes_13.jpg)
 
+If you have any question, please feel free to email fanjq@tongji.edu.cn.
+
 ## :fire: News
 - This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
 - CODA_desc.rar and nuScenes_desc.rar are the created datasets.  
