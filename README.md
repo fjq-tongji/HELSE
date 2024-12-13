@@ -2,6 +2,8 @@
   <h1>Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios</h1>
 </div>
 
+Paper[https://arxiv.org/abs/2412.07518]         Video Demo[https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4]
+
 <div style="text-align: center;">
   <img src="images/label_coda+nuscenes_13.jpg" alt="Logo" width="500">
 </div>
@@ -12,9 +14,7 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 
 ## :fire: News
 - This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
-- Read our arXiv Paper [https://arxiv.org/abs/2412.07518]
 - CODA_desc.rar and nuScenes_desc.rar are the created datasets.  
-- [Watch the video demo](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
 
 ## :book: Model
 <img src="images/overall39.jpg" alt="Logo" width="800">
