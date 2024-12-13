@@ -15,8 +15,9 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 ## :book: Model
 ![Logo](images/overall39.jpg)
 
-## :star: Installation
-
+## :pill: Installation
+1. LLaVA: https://github.com/haotian-liu/LLaVA
+2. 
 
 
 ## :star: Inference
@@ -64,10 +65,10 @@ This repository benefits from the following codes. Thanks for their awesome work
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
 
 ## :scroll: Citation
-@article{Hallucination,  
+@article{fan2024hallucination,  
   title={Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios},  
-  author={Jiaqi Fan and Jianhua Wu and Hongqing Chu and Quanbo Ge and Bingzhao Gao},  
-  year={2024},  
-  url={https://api.semanticscholar.org/CorpusID:274610465}  
-}  
+  author={Fan, Jiaqi and Wu, Jianhua and Chu, Hongqing and Ge, Quanbo and Gao, Bingzhao},  
+  journal={arXiv preprint arXiv:2412.07518},  
+  year={2024}  
+}
 
