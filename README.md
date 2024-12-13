@@ -26,6 +26,17 @@ Table 3. Comparison with the GPT-4o model on the POPE benchmark. B denotes billi
 ### Qualitative results  
 ![Logo](images/campus_img.jpg)  
 
+## :sunflower: Acknowledgement
+This repository benefits from the following codes. Thanks for their awesome works.
+- [LLaVA](https://github.com/haotian-liu/LLaVA)
+- [mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl)
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+- [InternVL](https://github.com/OpenGVLab/InternVL)
+- [Woodpecker](https://github.com/BradyFU/Woodpecker)
+- [POPE](https://github.com/AoiDragon/POPE)
+- [RAM](https://github.com/xinyu1205/recognize-anything)
+
+
 ## :scroll: Citation
 @article{Hallucination,  
   title={Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios},  
