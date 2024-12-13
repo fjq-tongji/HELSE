@@ -46,7 +46,7 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 5. Evaluate the model under POPE benchmark.
 6. Generate more refined descriptions using nuScenes dataset.   
 
-## :trophy: Results
+## :trophy: Experimental Results
 ### Ablation studies
 Table 1. Ablation studies of the effectiveness of each stage in the HCOENet. Stage1 refers the sentence split and key entity extraction, stage2 refers the entity cross-checking, stage3 refers the hallucination correction, stage4 refers the critical-object identification, stage5 refers the object description, and stage6 refers integrating descriptions from two frameworks. (\%)   
 <img src="images/Tab_ablation1.jpg" alt="Logo" width="800">
