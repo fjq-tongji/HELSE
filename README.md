@@ -4,7 +4,7 @@
 
 ![Logo](images/label_coda+nuscenes_13.jpg)
 
-## News
+## :fire: News
 &#8226; This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
 
 &#8226; [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
