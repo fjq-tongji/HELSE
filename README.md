@@ -17,10 +17,12 @@
 
 ## :star: Results
 
-Table 1. Evaluation results of five LVLMs on the POPE benchmark under three negative sampling settings.
-![Logo](images/Tab1.jpg)
-
-
+Table 1. Evaluation results of five LVLMs on the POPE benchmark under three negative sampling settings. (\%)  
+![Logo](images/Tab1.jpg)  
+Table 2. Comparison results between different mPLUG-Owl models on the POPE benchmark. (\%)  
+![Logo](images/Tab2.jpg)  
+Table 3. Comparison with the GPT-4o model on the POPE benchmark. B denotes billion and T denotes trillion. (\%)  
+![Logo](images/Tab3.jpg)
 
 
 ## :scroll: Citation
