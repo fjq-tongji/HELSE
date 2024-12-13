@@ -48,7 +48,7 @@ Table 1. Ablation studies of the effectiveness of each stage in the HCOENet. Sta
 ![Logo](images/Tab_ablation1.jpg) 
 ### Quantitative results  
 Table 2. Evaluation results of five LVLMs on the POPE benchmark under three negative sampling settings. (\%)  
-![Logo](images/Tab1.jpg)  
+<img src="images/Tab1.jpg" alt="Logo" width="300">  
 Table 3. Comparison results between different mPLUG-Owl models on the POPE benchmark. (\%)  
 ![Logo](images/Tab2.jpg)  
 Table 4. Comparison with the GPT-4o model on the POPE benchmark. B denotes billion and T denotes trillion. (\%)  
