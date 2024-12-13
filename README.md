@@ -58,7 +58,7 @@ Table 3. Comparison results between different mPLUG-Owl models on the POPE bench
 Table 4. Comparison with the GPT-4o model on the POPE benchmark. B denotes billion and T denotes trillion. (\%)  
 <img src="images/Tab3.jpg" alt="Logo" width="400">  
 ### Qualitative results  
-<img src="images/campus_img.jpg" alt="Logo" width="800">  
+<img src="images/campus_img.jpg" alt="Logo" width="700">  
 
 ## :sunflower: Acknowledgement
 This repository benefits from the following codes. Thanks for their awesome works.
