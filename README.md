@@ -6,7 +6,6 @@
   <img src="images/label_coda+nuscenes_13.jpg" alt="Logo" width="500">
 </div>
 
-
 If you have any question, please feel free to email fanjq@tongji.edu.cn.
 
 ## :fire: News
