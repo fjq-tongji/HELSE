@@ -17,6 +17,12 @@
 
 ## :star: Results
 
+Table 1. Evaluation results of five LVLMs on the POPE benchmark under three negative sampling settings.
+![Logo](images/Tab1.jpg)
+
+
+
+
 ## :scroll: Citation
 @article{Hallucination,  
   title={Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios},  
