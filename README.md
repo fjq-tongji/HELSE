@@ -14,7 +14,8 @@
 
 ## :star: Inference
 1. Download the traffic dataset from CODA website (https://coda-dataset.github.io);
-2. 
+2. Using POPE codes to generate question-answer pair jsons;
+3. 
 
 
 ## :trophy: Results
