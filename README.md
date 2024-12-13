@@ -15,10 +15,17 @@
 ## :star: Inference
 1. Download the traffic dataset from CODA website (https://coda-dataset.github.io);
 2. Generate question-answer pair using POPE code (./POPE codes/CODA2022/CODA2022_pope_random.json,./POPE codes/CODA2022/CODA2022_pope_popular.json,./POPE codes/CODA2022/CODA2022_pope_adversarial.json)
-3. Generate descriptions (initial response) for each image using specific LVLM, such as LLaVA-1.5, mPLUG-Owl.
+3. Generate initial response for each image using specific LVLM, such as LLaVA-1.5, mPLUG-Owl.
 4. Generate refined response using HCOENet framework:  
-   a. python   
-   b. python   
+   a. python inference_split_sents.py    
+   b. python inference_named_entity.py  
+   c. python inference_blip2_3.py  
+   d. python inference_instructblip_3.py  
+   e. python inference_entity_update_3.py  
+   f. python inference_groundingdino_4.py  
+   g. python inference_groundingdino_words_update_4.py  
+   h. python inference_groundingdino_write_captions_5.py  
+   i. python inference_entity_captions_update_6.py     
    
 
 
