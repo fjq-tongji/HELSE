@@ -47,12 +47,12 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 Table 1. Ablation studies of the effectiveness of each stage in the HCOENet. Stage1 refers the sentence split and key entity extraction, stage2 refers the entity cross-checking, stage3 refers the hallucination correction, stage4 refers the critical-object identification, stage5 refers the object description, and stage6 refers integrating descriptions from two frameworks. (\%)  
 ![Logo](images/Tab_ablation1.jpg) 
 ### Quantitative results  
-Table 2. Evaluation results of five LVLMs on the POPE benchmark under three negative sampling settings. (\%)  
-<img src="images/Tab1.jpg" alt="Logo" width="300">  
-Table 3. Comparison results between different mPLUG-Owl models on the POPE benchmark. (\%)  
-![Logo](images/Tab2.jpg)  
+Table 2. Evaluation results of five LVLMs on the POPE benchmark under three negative sampling settings. (\%) 
+![Logo](images/Tab1.jpg) 
+Table 3. Comparison results between different mPLUG-Owl models on the POPE benchmark. (\%)   
+<img src="images/Tab2.jpg" alt="Logo" width="500">  
 Table 4. Comparison with the GPT-4o model on the POPE benchmark. B denotes billion and T denotes trillion. (\%)  
-![Logo](images/Tab3.jpg)
+<img src="images/Tab3.jpg" alt="Logo" width="500">  
 ### Qualitative results  
 ![Logo](images/campus_img.jpg)  
 
