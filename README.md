@@ -6,8 +6,11 @@
 
 ## News
 &#8226; This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
+
 &#8226; [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
+
 &#8226; CODA_desc.rar and nuScenes_desc.rar are the created datasets.
+
 
 ## Model
 ![Logo](images/overall39.jpg)
