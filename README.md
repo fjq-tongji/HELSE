@@ -2,7 +2,7 @@
   <h1>Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios</h1>
 </div>
 
-![Logo](images/label_coda+nuscenes_13.jpg)
+<img src="images/label_coda+nuscenes_13.jpg" alt="Logo" width="700">  
 
 If you have any question, please feel free to email fanjq@tongji.edu.cn.
 
