@@ -6,8 +6,8 @@
 
 ## :fire: News
 - This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
-- [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
 - CODA_desc.rar and nuScenes_desc.rar are the created datasets.  
+- [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
 
 ## :book: Model
 ![Logo](images/overall39.jpg)
@@ -25,10 +25,9 @@
    f. python inference_groundingdino_4.py  
    g. python inference_groundingdino_words_update_4.py  
    h. python inference_groundingdino_write_captions_5.py  
-   i. python inference_entity_captions_update_6.py     
-   
-
-
+   i. python inference_entity_captions_update_6.py
+5. Evaluate the model under POPE benchmark.
+6. Generate more refined descriptions using nuScenes dataset.   
 
 ## :trophy: Results
 ### Ablation studies
