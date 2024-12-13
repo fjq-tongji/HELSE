@@ -2,7 +2,7 @@
   <h1>Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios</h1>
 </div>
 
-                                                   <img src="images/label_coda+nuscenes_13.jpg" alt="Logo" width="500">  
+<img src="images/label_coda+nuscenes_13.jpg" alt="Logo" width="500">  
 
 If you have any question, please feel free to email fanjq@tongji.edu.cn.
 
@@ -50,9 +50,9 @@ Table 1. Ablation studies of the effectiveness of each stage in the HCOENet. Sta
 Table 2. Evaluation results of five LVLMs on the POPE benchmark under three negative sampling settings. (\%) 
 ![Logo](images/Tab1.jpg) 
 Table 3. Comparison results between different mPLUG-Owl models on the POPE benchmark. (\%)   
-                                 <img src="images/Tab2.jpg" alt="Logo" width="400">  
+<img src="images/Tab2.jpg" alt="Logo" width="400">  
 Table 4. Comparison with the GPT-4o model on the POPE benchmark. B denotes billion and T denotes trillion. (\%)  
-                                 <img src="images/Tab3.jpg" alt="Logo" width="400">  
+<img src="images/Tab3.jpg" alt="Logo" width="400">  
 ### Qualitative results  
 ![Logo](images/campus_img.jpg)  
 
