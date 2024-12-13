@@ -17,8 +17,13 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 
 ## :pill: Installation
 1. LLaVA: https://github.com/haotian-liu/LLaVA
-2. 
-
+2. mPLUG-Owl: https://github.com/X-PLUG/mPLUG-Owl
+3. MiniGPT-4: https://github.com/Vision-CAIR/MiniGPT-4
+4. InternVL: https://github.com/OpenGVLab/InternVL
+5. BLIP-2: https://huggingface.co/Salesforce/blip2-flan-t5-xxl
+6. InstructBLIP: https://huggingface.co/Salesforce/instructblip-flan-t5-xxl
+7. RAM: https://github.com/xinyu1205/recognize-anything
+8. GroundingDINO: https://github.com/IDEA-Research/GroundingDINO
 
 ## :star: Inference
 1. Download the traffic dataset from CODA website (https://coda-dataset.github.io);
