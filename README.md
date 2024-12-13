@@ -13,10 +13,11 @@
 ![Logo](images/overall39.jpg)
 
 ## :star: Inference
+1. Download the traffic dataset from CODA website (https://coda-dataset.github.io);
+2. 
 
 
-
-## :1st_place_medal: Results
+## :trophy: Results
 ### Ablation studies
 Table 1. Ablation studies of the effectiveness of each stage in the HCOENet. Stage1 refers the sentence split and key entity extraction, stage2 refers the entity cross-checking, stage3 refers the hallucination correction, stage4 refers the critical-object identification, stage5 refers the object description, and stage6 refers integrating descriptions from two frameworks. (\%)  
 ![Logo](images/Tab_ablation1.jpg) 
