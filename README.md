@@ -17,7 +17,7 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 - [Watch the video demo](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
 
 ## :book: Model
-<img src="images/overall39.jpg" alt="Logo" width="600">
+<img src="images/overall39.jpg" alt="Logo" width="700">
 
 ## :pill: Installation
 1. LLaVA: https://github.com/haotian-liu/LLaVA
