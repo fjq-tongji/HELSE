@@ -1,4 +1,4 @@
-<div align="center>
+<div style="text-align: center;">
   <h1>Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios</h1>
 </div>
 
