@@ -5,14 +5,18 @@
 ![Logo](images/label_coda+nuscenes_13.jpg)
 
 ## :fire: News
-1. This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.  
-2. [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)  
-3. CODA_desc.rar and nuScenes_desc.rar are the created datasets.  
+- This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
+- [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
+- CODA_desc.rar and nuScenes_desc.rar are the created datasets.  
 
 ## :book: Model
 ![Logo](images/overall39.jpg)
 
-## :star: Results
+## :star: Inference
+
+
+
+## :1st_place_medal: Results
 ### Ablation studies
 Table 1. Ablation studies of the effectiveness of each stage in the HCOENet. Stage1 refers the sentence split and key entity extraction, stage2 refers the entity cross-checking, stage3 refers the hallucination correction, stage4 refers the critical-object identification, stage5 refers the object description, and stage6 refers integrating descriptions from two frameworks. (\%)  
 ![Logo](images/Tab_ablation1.jpg) 
@@ -32,12 +36,12 @@ This repository benefits from the following codes. Thanks for their awesome work
 - [mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl)
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
 - [InternVL](https://github.com/OpenGVLab/InternVL)
+- [BLIP-2](https://huggingface.co/Salesforce/blip2-flan-t5-xxl)
+- [InstructBLIP](https://huggingface.co/Salesforce/instructblip-flan-t5-xxl)(https://huggingface.co/Salesforce/instructblip-vicuna-13b)
 - [Woodpecker](https://github.com/BradyFU/Woodpecker)
 - [POPE](https://github.com/AoiDragon/POPE)
 - [RAM](https://github.com/xinyu1205/recognize-anything)
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
-- [BLIP-2](https://huggingface.co/Salesforce/blip2-flan-t5-xxl)
-- [InstructBLIP](https://huggingface.co/Salesforce/instructblip-flan-t5-xxl)(https://huggingface.co/Salesforce/instructblip-vicuna-13b)
 
 ## :scroll: Citation
 @article{Hallucination,  
