@@ -35,7 +35,9 @@ This repository benefits from the following codes. Thanks for their awesome work
 - [Woodpecker](https://github.com/BradyFU/Woodpecker)
 - [POPE](https://github.com/AoiDragon/POPE)
 - [RAM](https://github.com/xinyu1205/recognize-anything)
-
+- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+- [BLIP-2](https://huggingface.co/Salesforce/blip2-flan-t5-xxl)
+- [InstructBLIP](https://huggingface.co/Salesforce/instructblip-flan-t5-xxl)(https://huggingface.co/Salesforce/instructblip-vicuna-13b)
 
 ## :scroll: Citation
 @article{Hallucination,  
