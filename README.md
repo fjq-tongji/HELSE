@@ -5,17 +5,17 @@
 ![Logo](images/label_coda+nuscenes_13.jpg)
 
 ## :fire: News
-&#8226; This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.
-
-&#8226; [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)
-
-&#8226; CODA_desc.rar and nuScenes_desc.rar are the created datasets.
-
+1. This paper is submitted to IEEE Transactions on Intelligent Transportation Systems.  
+2. [Watch the demo video](https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4)  
+3. CODA_desc.rar and nuScenes_desc.rar are the created datasets.  
 
 ## :book: Model
 ![Logo](images/overall39.jpg)
 
 ## :star: Results
+### Ablation studies
+Table 1. Ablation studies of the effectiveness of each stage in the HCOENet. Stage1 refers the sentence split and key entity extraction, stage2 refers the entity cross-checking, stage3 refers the hallucination correction, stage4 refers the critical-object identification, stage5 refers the object description, and stage6 refers integrating descriptions from two frameworks. (\%)  
+![Logo](images/Tab_ablation1.jpg) 
 ### Quantitative results  
 Table 1. Evaluation results of five LVLMs on the POPE benchmark under three negative sampling settings. (\%)  
 ![Logo](images/Tab1.jpg)  
