@@ -39,17 +39,17 @@ $ python POPE codes/CODA2022/CODA2022_pope_adversarial.json
 ```
 3. Generate initial response for each image using specific LVLM, such as LLaVA-1.5, mPLUG-Owl.
 4. Generate refined response using HCOENet framework:  
-   ```
-   python inference_split_sents.py
-   python inference_named_entity.py
-   python inference_blip2_3.py
-   python inference_instructblip_3.py
-   python inference_entity_update_3.py
-   python inference_groundingdino_4.py
-   python inference_groundingdino_words_update_4.py
-   python inference_groundingdino_write_captions_5.py
-   python inference_entity_captions_update_6.py
-   ```    
+```
+$ python inference_split_sents.py
+$ python inference_named_entity.py
+$ python inference_blip2_3.py
+$ python inference_instructblip_3.py
+$ python inference_entity_update_3.py
+$ python inference_groundingdino_4.py
+$ python inference_groundingdino_words_update_4.py
+$ python inference_groundingdino_write_captions_5.py
+$ python inference_entity_captions_update_6.py
+```    
 5. Evaluate the model under POPE benchmark.
 6. Generate more refined descriptions using nuScenes dataset.   
 
