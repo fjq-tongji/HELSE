@@ -13,7 +13,7 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 ## :fire: News
 - Read our paper [https://arxiv.org/abs/2412.07518]
 - Video demo [https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4]
-- CODA_desc_dataset_texts_9263.json and nuScenes_desc.rar are the created datasets.  
+- CODA_desc_dataset_texts_9263.rar and nuScenes_desc_dataset_texts_33084.rar are the created datasets.  
 
 ## :book: Model
 <img src="images/overall39.jpg" alt="Logo" width="800">
